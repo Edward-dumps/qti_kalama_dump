@@ -1,0 +1,42 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.HT.5.8-01168-KAILUA-1", 
+        "aop": "AOP.HO.5.0-00477-KAILUA_E-1", 
+        "apps_LE": "LE.UM.6.3.3.r1-18200-genericarmv8-64.0-1", 
+        "apps_kernel": "KERNEL.PLATFORM.2.0.r1-12400-kernel.0-1", 
+        "apps_qssi13": "LA.QSSI.13.0.r1-10700-qssi.0-2", 
+        "apps_qssi14": "LA.QSSI.14.0.r1-07000-qssi.0-1", 
+        "apps_vendor": "LA.VENDOR.13.2.0.r1-17700-KAILUA.QSSI14.0-1", 
+        "audio": "AUDIO.LA.8.0.r1-07800-KAILUA.0-1", 
+        "boot": "BOOT.MXF.2.1.1-00268-KAILUA-1", 
+        "btfm_hmt": "BTFW.HAMILTON.2.0.1-00176-PATCHZ-1", 
+        "btfm_hmt_c": "BTFW.HAMILTON_C.2.0.1-00135-PATCHZ-2", 
+        "btfm_hsp": "BTFW.HSP_C.2.1.1.c1-00037-PATCHZ-2", 
+        "btfm_hsp_c": "BTFW.HSP_C.2.1.1.c2-00036-PATCHZ-2", 
+        "camera": "CAMERA.LA.3.0.r1-06800-KAILUA.0-1", 
+        "cdsp": "CDSP.HT.2.8-00755-KAILUA-1", 
+        "common": "Kailua.LA.2.0.r1-00085-STD.PROD-1", 
+        "cpucp": "CPUCP.FW.1.0-00067-KAILUA.EXT-1", 
+        "cpuss_vm": "CPUSS.CPUSYS.VM.1.0-00006-KAILUA.EXT-1", 
+        "cv": "CV.LA.1.0.r1-03600-KAILUA.0-1", 
+        "display": "DISPLAY.LA.3.0.r1-09600-KAILUA.0-1", 
+        "glue": "GLUE.KAILUA_LA.2.0-00014-NOOP_TEST_KAILUA-1", 
+        "graphics": "GRAPHICS.LA.1.0.r1-05400-KAILUA.0-1", 
+        "modem": "MPSS.DE.3.1-01521.3-KAILUA_GEN_PACK-1", 
+        "sensors": "SENSORS.LA.3.0.r1-03600-KAILUA.0-1", 
+        "spss": "SPSS.A1.1.7-00077-KAILUA-1", 
+        "tz": "TZ.XF.5.24-00273-KAILUAAAAAANAZT-1", 
+        "tz_apps": "TZ.APPS.1.24-00079-KAILUAAAAAANAZT-1", 
+        "video": "VIDEO.LA.3.0.r1-05600-KAILUA.0-1", 
+        "wapi": "WLAN_ADDON.HMT.1.0-00013-CNSS_RMZ_WAPI-1", 
+        "wlan_hmt": "WLAN.HMT.1.1.c2-00043.5-QCAHMTSWPL_V1.0_V2.0_SILICONZ-1", 
+        "wlan_hsp": "WLAN.HSP.2.0.c11-00309-QCAHSPSWPL_V1_V2_SILICONZ-1", 
+        "xr": "XR.LA.1.0.r1-03400-KAILUA.0-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "Kailua.LA.2.0.r1-00085-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2023-07-13 22:55:22"
+    }, 
+    "Version": "1.0"
+}
