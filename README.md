@@ -1,0 +1,14 @@
+# qssi-userdebug 13 TKQ1.230426.002 eng.lnxbui.20230522.040250 test-keys
+- manufacturer: qualcomm
+- platform: kalama
+- codename: kalama
+- flavor: qssi-userdebug
+- release: 13
+- id: TKQ1.230426.002
+- incremental: eng.lnxbui.20230522.040250
+- tags: test-keys
+- fingerprint: qti/kalama/kalama:13/TKQ1.230426.002/lnxbuild05220537:userdebug/test-keys
+- is_ab: true
+- brand: qti
+- branch: qssi-userdebug-13-TKQ1.230426.002-eng.lnxbui.20230522.040250-test-keys
+- repo: qti_kalama_dump
