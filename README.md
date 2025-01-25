@@ -1,0 +1,14 @@
+# qssi-userdebug 15 AQ3A.241101.002 eng.edward.00000000.000000 test-keys
+- manufacturer: qualcomm
+- platform: kalama
+- codename: kalama
+- flavor: qssi-userdebug
+- release: 15
+- id: AQ3A.241101.002
+- incremental: eng.edward.00000000.000000
+- tags: test-keys
+- fingerprint: qti/kalama/kalama:13/TKQ1.241101.001/edwardwu01250124:userdebug/test-keys
+- is_ab: true
+- brand: qti
+- branch: qssi-userdebug-15-AQ3A.241101.002-eng.edward.00000000.000000-test-keys
+- repo: qti_kalama_dump
